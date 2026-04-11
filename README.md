@@ -17,7 +17,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[![GitHub stars](https://img.shields.io/github/stars/ShubhamNegi-07/Careerpulse-Website?style=social)](https://github.com/ShubhamNegi-07/Careerpulse-Website)
 [![GitHub forks](https://img.shields.io/github/forks/ShubhamNegi-07/Careerpulse-Website?style=social)](https://github.com/ShubhamNegi-07/Careerpulse-Website)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
