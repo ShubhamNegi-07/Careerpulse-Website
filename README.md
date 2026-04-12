@@ -41,7 +41,18 @@
 
 ## 🚀 What is CareerPulse?
 
-**CareerPulse** Profile
+**CareerPulse** is a fully responsive, multi-page job portal website built with vanilla HTML, CSS, and JavaScript.
+
+No frameworks. No backend dependencies to configure. Just open it and go.
+
+It provides a polished UI experience for both job seekers and employers — with dedicated pages for browsing jobs, exploring companies, user authentication, and more.
+
+```
+Visitor lands on Homepage
+         ↓
+ Browse Job Listings
+         ↓
+ View Job Details / Company Profile
          ↓
  ✅ Register / Login — Apply or Post
 ```
@@ -51,20 +62,7 @@
 ## 💡 Why This Exists
 
 | Traditional Job Portals | ⚡ CareerPulse |
-|---|---|
-| 🐌 Heavy, slow-loading pages | ✅ Lightweight, fast vanilla stack |
-| 🔒 Overcomplicated setup | ✅ Zero config — just open in browser |
-| 🎨 Cluttered, outdated UI | ✅ Clean, modern, responsive design |
-| 📱 Poor mobile experience | ✅ Mobile-first layout across all pages |
-| 🧩 Hard to customize | ✅ Plain HTML/CSS — easy to extend |
-
----
-
-## 🗂️ Pages & Features
-
-| Page | File | Description |
-|------|------|-------------|
-| 🏠 **Home** | `index.html` | Landing page with hero section and featured listings |
+|---|---|page with hero section and featured listings |
 | 💼 **Jobs** | `jobs.html` | Full job listings with search & filter UI |
 | 🔍 **View Job** | `view_jobs.html` | Detailed job description page |
 | 🏢 **Companies** | `iew_company.html` | Company directory and profiles |
