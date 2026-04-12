@@ -86,7 +86,18 @@ Visitor lands on Homepage
 
 ---
 
-## ✨ Key Fenstall needed — runs instantly in any browser |
+## ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🏠 **Multi-Page Architecture** | Dedicated pages for every user journey touchpoint |
+| 💼 **Job Listings Page** | Browse and explore available positions at a glance |
+| 🔍 **Job Detail View** | Full job descriptions with company context |
+| 🏢 **Company Profiles** | Explore companies, their culture, and open roles |
+| 🔐 **Auth Pages** | Clean login and registration UI ready for backend integration |
+| 📱 **Responsive Design** | Fluid layouts that work on mobile, tablet, and desktop |
+| 🎨 **Modern UI** | Polished visual design with custom CSS and real imagery |
+| ⚡ **Zero Dependencies** | No npm install needed — runs instantly in any browser |
 
 ---
 
@@ -167,12 +178,7 @@ open index.html
 
 ## 📌 Use Cases
 
-| Who | How They Use It |
-|-----|-----------------|
-| 👩‍💻 **Frontend Learners** | Study real-world multi-page HTML/CSS/JS structure |
-| 🎨 **UI/UX Designers** | Reference for clean job portal design patterns |
-| 🚀 **Developers** | Starter template to plug in a backend (Node.js, Firebase, etc.) |
-| 🧑‍🏫 **Instructors** | Teaching project for web development courses |
+| Who | How Thing project for web development courses |
 | 🏢 **Small Businesses** | Lightweight career page without heavy CMS overhead |
 
 ---
