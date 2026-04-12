@@ -19,7 +19,7 @@
 
 *CareerPulse bridges the gap between job seekers and employers with a sleek, multi-page experience — from browsing listings to viewing company profiles.*
 
-> 
+> 📸 *Live demo / screenshots coming soon — check back or contribute one!*
 
 ---
 
@@ -27,15 +27,7 @@
 
 - [What is CareerPulse?](#-what-is-careerpulse)
 - [Why This Exists](#-why-this-exists)
-- [Pages & Features](#-pages--features)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Use Cases](#-use-cases)
-- [Roadmap](#-roadmap)
-- [Author](#-author)
-- [Contributing](#-contributing)
+- [Pages
 
 ---
 
