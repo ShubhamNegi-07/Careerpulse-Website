@@ -62,7 +62,20 @@ Visitor lands on Homepage
 ## 💡 Why This Exists
 
 | Traditional Job Portals | ⚡ CareerPulse |
-|---|---|page with hero section and featured listings |
+|---|---|
+| 🐌 Heavy, slow-loading pages | ✅ Lightweight, fast vanilla stack |
+| 🔒 Overcomplicated setup | ✅ Zero config — just open in browser |
+| 🎨 Cluttered, outdated UI | ✅ Clean, modern, responsive design |
+| 📱 Poor mobile experience | ✅ Mobile-first layout across all pages |
+| 🧩 Hard to customize | ✅ Plain HTML/CSS — easy to extend |
+
+---
+
+## 🗂️ Pages & Features
+
+| Page | File | Description |
+|------|------|-------------|
+| 🏠 **Home** | `index.html` | Landing page with hero section and featured listings |
 | 💼 **Jobs** | `jobs.html` | Full job listings with search & filter UI |
 | 🔍 **View Job** | `view_jobs.html` | Detailed job description page |
 | 🏢 **Companies** | `iew_company.html` | Company directory and profiles |
@@ -73,18 +86,7 @@ Visitor lands on Homepage
 
 ---
 
-## ✨ Key Features
-
-| Feature | Description |
-|---------|-------------|
-| 🏠 **Multi-Page Architecture** | Dedicated pages for every user journey touchpoint |
-| 💼 **Job Listings Page** | Browse and explore available positions at a glance |
-| 🔍 **Job Detail View** | Full job descriptions with company context |
-| 🏢 **Company Profiles** | Explore companies, their culture, and open roles |
-| 🔐 **Auth Pages** | Clean login and registration UI ready for backend integration |
-| 📱 **Responsive Design** | Fluid layouts that work on mobile, tablet, and desktop |
-| 🎨 **Modern UI** | Polished visual design with custom CSS and real imagery |
-| ⚡ **Zero Dependencies** | No npm install needed — runs instantly in any browser |
+## ✨ Key Fenstall needed — runs instantly in any browser |
 
 ---
 
