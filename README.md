@@ -27,24 +27,21 @@
 
 - [What is CareerPulse?](#-what-is-careerpulse)
 - [Why This Exists](#-why-this-exists)
-- [Pages
+- [Pages & Features](#-pages--features)
+- [Key Features](#-key-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Use Cases](#-use-cases)
+- [Roadmap](#-roadmap)
+- [Author](#-author)
+- [Contributing](#-contributing)
 
 ---
 
 ## 🚀 What is CareerPulse?
 
-**CareerPulse** is a fully responsive, multi-page job portal website built with vanilla HTML, CSS, and JavaScript.
-
-No frameworks. No backend dependencies to configure. Just open it and go.
-
-It provides a polished UI experience for both job seekers and employers — with dedicated pages for browsing jobs, exploring companies, user authentication, and more.
-
-```
-Visitor lands on Homepage
-         ↓
- Browse Job Listings
-         ↓
- View Job Details / Company Profile
+**CareerPulse** Profile
          ↓
  ✅ Register / Login — Apply or Post
 ```
