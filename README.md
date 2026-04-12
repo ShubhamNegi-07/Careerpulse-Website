@@ -178,7 +178,12 @@ open index.html
 
 ## 📌 Use Cases
 
-| Who | How Thing project for web development courses |
+| Who | How They Use It |
+|-----|-----------------|
+| 👩‍💻 **Frontend Learners** | Study real-world multi-page HTML/CSS/JS structure |
+| 🎨 **UI/UX Designers** | Reference for clean job portal design patterns |
+| 🚀 **Developers** | Starter template to plug in a backend (Node.js, Firebase, etc.) |
+| 🧑‍🏫 **Instructors** | Teaching project for web development courses |
 | 🏢 **Small Businesses** | Lightweight career page without heavy CMS overhead |
 
 ---
