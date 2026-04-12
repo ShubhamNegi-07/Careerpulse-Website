@@ -19,7 +19,7 @@
 
 *CareerPulse bridges the gap between job seekers and employers with a sleek, multi-page experience — from browsing listings to viewing company profiles.*
 
-> 📸 *Live demo / screenshots coming soon — check back or contribute one!*
+> 
 
 ---
 
