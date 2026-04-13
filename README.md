@@ -238,17 +238,11 @@ Please open an [Issue](https://github.com/ShubhamNegi-07/Careerpulse-Website/iss
 
 ---
 
-## ⭐ Support the Project
-
-If CareerPulse helped or inspired you:
-
-- ⭐ **Star** this repository
-- 🍴 **Fork** and build on top of it
-- 📣 **Share** it with someone learning web development
-- 🐛 **Report bugs** or suggest features via [Issues](https://github.com/ShubhamNegi-07/Careerpulse-Website/issues)
-
----
 
 <div align="center">
+
+**CareerPulse** — a clean, fast, and extensible job portal built for the modern web.
+
+*Built with ❤️ by [Shubham Negi](https://github.com/ShubhamNegi-07)*
 
 </div>
