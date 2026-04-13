@@ -251,8 +251,4 @@ If CareerPulse helped or inspired you:
 
 <div align="center">
 
-**CareerPulse** — a clean, fast, and extensible job portal built for the modern web.
-
-*Built with ❤️ by [Shubham Negi](https://github.com/ShubhamNegi-07)*
-
 </div>
