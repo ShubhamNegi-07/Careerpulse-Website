@@ -17,7 +17,19 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-*CareerPulse bri
+*CareerPulse bridges the gap between job seekers and employers with a sleek, multi-page experience — from browsing listings to viewing company profiles.*
+
+> 📸 *Live demo / screenshots coming soon — check back or contribute one!*
+
+---
+
+## 📌 Table of Contents
+
+- [What is CareerPulse?](#-what-is-careerpulse)
+- [Why This Exists](#-why-this-exists)
+- [Pages & Features](#-pages--features)
+- [Key Features](#-key-features)
+- [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Use Cases](#-use-cases)
