@@ -9,11 +9,7 @@
 
 ### 💼 Modern Job Portal & Career Discovery Platform
 
-> *CareerPulse is a clean, responsive job portal website that connects ambitious candidates with top companies — built with pure HTML, CSS, and JavaScript.*
-
-**Find your next opportunity. Post your opening. Build your career — all in one place.**
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+> *CareerPulse is a clean, responsive job portal website that connects ambitious candidates with top companies — built with pure HTML, CSS, and JavaSc
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -238,6 +234,16 @@ Please open an [Issue](https://github.com/ShubhamNegi-07/Careerpulse-Website/iss
 
 ---
 
+## ⭐ Support the Project
+
+If CareerPulse helped or inspired you:
+
+- ⭐ **Star** this repository
+- 🍴 **Fork** and build on top of it
+- 📣 **Share** it with someone learning web development
+- 🐛 **Report bugs** or suggest features via [Issues](https://github.com/ShubhamNegi-07/Careerpulse-Website/issues)
+
+---
 
 <div align="center">
 
